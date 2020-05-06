@@ -8,6 +8,8 @@ skill:
     sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image: images/about/company-growth.webp
   skill_item:
+  - name: Houdini
+    percent: 70%
   - name: Python
     percent: 95%
   - name: Machine Learning
