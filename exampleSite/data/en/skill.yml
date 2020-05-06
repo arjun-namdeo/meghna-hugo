@@ -10,8 +10,8 @@ skill:
   skill_item:
   - name: Python
     percent: 95%
-  - name: Analysis
-    percent: 70%
+  - name: Machine Learning
+    percent: 80%
   - name: Design
     percent: 80%
   - name: IOS Development
